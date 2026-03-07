@@ -1,4 +1,4 @@
-# Sales Ranking Demo
+# 双十一3C销售排行榜 （UV/PV双高亿级项目）
 
 [https://zhaohuijian.github.io/sales-ranking-demo/computer.html](https://zhaohuijian.github.io/sales-ranking-demo/computer.html)
 
